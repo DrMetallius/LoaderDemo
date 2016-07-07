@@ -1,0 +1,8 @@
+syntax: regexp
+^\.gradle/
+^\.idea/libraries/
+^\.idea/workspace\.xml$
+.*\.iml$
+^local\.properties$
+^build/
+^app/build/

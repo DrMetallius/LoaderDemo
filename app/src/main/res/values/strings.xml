@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">LoaderDemo</string>
+
+	<string name="main_label_time">Точное время</string>
+	<string name="main_btn_reload">Перезагрузить</string>
+
+	<string name="time_loading_failed">Не удалось загрузить</string>
+</resources>
